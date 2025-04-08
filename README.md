@@ -1,10 +1,7 @@
 # NHL-MVP-Prediction
 
 - Data sourced from [moneypuck.com](https://moneypuck.com/data.htm)
-
-<br>
-
-- Using [scikit-learn linear regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) and [pandas](https://pandas.pydata.org).
+- Built with [scikit-learn linear regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) and [pandas](https://pandas.pydata.org).
 
 <br>
 
@@ -27,6 +24,7 @@
 ### MVP Points-Per-Game by Season
 ![alt text](./Images/image-1.png)
 
+## Results
 ### Top 10 MVP Predictions for 2023-2024
 - Nathan MacKinnon had won the award this season.
 
