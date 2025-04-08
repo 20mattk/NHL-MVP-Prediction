@@ -22,17 +22,17 @@
 
 ## Visualizations
 ### MVP Total Points Breakdown by Season
-![alt text](./images/image.png)
+![alt text](./Images/image.png)
 
 ### MVP Points-Per-Game by Season
-![alt text](./images/image-1.png)
+![alt text](./Images/image-1.png)
 
 ### Top 10 MVP Predictions for 2023-2024
 - Nathan MacKinnon had won the award this season.
 
-![alt text](./images/image-2.png)
+![alt text](./Images/image-2.png)
 
 ### Feature Importance
 - The percentage of all team goals a player was the ice for and their points per game were the most impactful in the regression model.
 
-![alt text](./images/image-3.png)
+![alt text](./Images/image-3.png)
